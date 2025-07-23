@@ -41,7 +41,7 @@ Resultado em octal: 55
 ## 👨‍💻 Autor
 
 - **Lucas M. Alves**  
-📧 lucasmalves148@gmail.com  
+📧 lucasanderlyne90@gmail.com  
 🌐 github.com/Lucasmalves148
 
 ---
