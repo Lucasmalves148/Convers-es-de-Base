@@ -1,7 +1,7 @@
 
 # Conversor de Bases em Java
 
-Este projeto é um conversor de bases numéricas feito em Java. Ele permite converter números entre diferentes sistemas de numeração, como:
+Este projeto é um conversor de bases numéricas feito em Java na qual auxiliei junto dos meus colegas em sua criação. Ele permite converter números entre diferentes sistemas de numeração, como:
 
 - Binário ↔ Decimal
 - Binário → Octal
@@ -37,13 +37,5 @@ Sua escolha: 1
 Digite o número em binário: 101101
 Resultado em octal: 55
 ```
-
-## 👨‍💻 Autor
-
-- **Lucas M. Alves**  
-📧 lucasanderlyne90@gmail.com  
-🌐 github.com/Lucasmalves148
-
----
 
 *Este projeto foi desenvolvido como exercício acadêmico e demonstra prática com estruturas básicas de programação em Java.*
